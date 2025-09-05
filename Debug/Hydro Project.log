@@ -1,1 +1,18 @@
-
+﻿  Hydroelectric_plant.c
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(307,45): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(339,45): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(371,45): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(390,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(406,32): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(425,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(441,32): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(460,27): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(476,32): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(493,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(499,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(505,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(512,29): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(519,29): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(526,29): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+E:\Sem 6\Hydro Project\Hydro Project\Hydro Project\Hydroelectric_plant.c(541,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Hydro Project.vcxproj -> E:\Sem 6\Hydro Project\Hydro Project\Debug\Hydro Project.exe
